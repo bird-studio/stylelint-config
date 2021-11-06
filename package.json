@@ -29,7 +29,12 @@
     "stylelint": "14.0.1"
   },
   "devDependencies": {
-    "@bird-studio/interactive-message": "1.1.4"
+    "@bird-studio/interactive-message": "1.1.4",
+    "@semantic-release/git": "10.0.1",
+    "@semantic-release/github": "8.0.2",
+    "@semantic-release/npm": "8.0.3",
+    "conventional-changelog-conventionalcommits": "4.6.1",
+    "semantic-release": "18.0.0"
   },
   "publishConfig": {
     "access": "public"
