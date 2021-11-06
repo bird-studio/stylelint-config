@@ -899,10 +899,10 @@
     inquirer-search-list "1.2.6"
     table "6.7.2"
 
-"@bird-studio/js-config@1.12.0":
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/@bird-studio/js-config/-/js-config-1.12.0.tgz#f31038b95d8e59e6f496c058e0e70005ad6e89bb"
-  integrity sha512-/zKvlTg5zU2oT6xG63XuaK8Zb9FXmfABTjVg1dG/Bm5jb/3JevfPNCf7xStsTABu0N1AnrYDDGAGqw9SqSP86Q==
+"@bird-studio/js-config@1.13.0":
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/@bird-studio/js-config/-/js-config-1.13.0.tgz#1fbaa1b4abb7b71d54239174edb1c3f8136233ad"
+  integrity sha512-8bCh1YrYR41/kfuLT9psj/KiTDMOXyUzJUo36CPvaLfDe8d/NkGRfwQGtMSH3Q4Kn61h7JDjebr6FGznnP4Atw==
   dependencies:
     cosmiconfig "7.0.1"
 
@@ -2409,6 +2409,11 @@ postcss-sorting@^5.0.1:
   dependencies:
     lodash "^4.17.14"
     postcss "^7.0.17"
+
+postcss-syntax@0.36.2:
+  version "0.36.2"
+  resolved "https://registry.yarnpkg.com/postcss-syntax/-/postcss-syntax-0.36.2.tgz#f08578c7d95834574e5593a82dfbfa8afae3b51c"
+  integrity sha512-nBRg/i7E3SOHWxF3PpF5WnJM/jQ1YpY9000OaVXlAQj6Zp/kIqJxEDWIZ67tAd7NLuk7zqN4yqe9nc0oNAOs1w==
 
 postcss@^7.0.17, postcss@^7.0.31:
   version "7.0.39"
