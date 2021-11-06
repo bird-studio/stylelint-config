@@ -29,7 +29,7 @@
     "stylelint": "14.0.1"
   },
   "devDependencies": {
-    "@bird-studio/interactive-message": "1.1.1"
+    "@bird-studio/interactive-message": "1.1.4"
   },
   "publishConfig": {
     "access": "public"
