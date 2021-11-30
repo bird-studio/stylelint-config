@@ -18,23 +18,23 @@
     "prepare": "git config --local core.hooksPath .githooks"
   },
   "dependencies": {
-    "@bird-studio/js-config": "2.0.2",
+    "@bird-studio/js-config": "2.1.1",
     "@stylelint/postcss-css-in-js": "0.37.2",
     "postcss-syntax": "0.36.2",
     "stylelint-config-prettier": "9.0.3",
-    "stylelint-config-recess-order": "2.5.0",
-    "stylelint-config-standard": "23.0.0"
+    "stylelint-config-recess-order": "3.0.0",
+    "stylelint-config-standard": "24.0.0"
   },
   "peerDependencies": {
     "stylelint": "14.0.1"
   },
   "devDependencies": {
-    "@bird-studio/interactive-message": "1.1.4",
+    "@bird-studio/interactive-message": "1.2.2",
     "@semantic-release/git": "10.0.1",
     "@semantic-release/github": "8.0.2",
     "@semantic-release/npm": "8.0.3",
     "conventional-changelog-conventionalcommits": "4.6.1",
-    "semantic-release": "18.0.0"
+    "semantic-release": "18.0.1"
   },
   "publishConfig": {
     "access": "public"
