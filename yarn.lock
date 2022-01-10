@@ -2355,9 +2355,9 @@ ejs@^3.1.6:
     jake "^10.6.1"
 
 electron-to-chromium@^1.4.17:
-  version "1.4.32"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.32.tgz#7ad1e76692b307da454b7380cc882784962648b8"
-  integrity sha512-7QRVfMlccTFs7cZV3lB0k9Wcm6R6F+w1yBPX+xBAlAP/1oJIstxTev3A4r8REnUUAFph/cIB8y/EBU7PDbJTQw==
+  version "1.4.39"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.39.tgz#19c8e8ff712fe62bfdd4f3fe1c3b3fb4aa179ebb"
+  integrity sha512-bFH3gdRq/l7WlzSleiO6dwpZH3RhiJ8vlMq0tOJMfT+5nb+x397eJn2RHF6Ho/9GCKv+BkimNlUMHl9+Yh+Qcg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
