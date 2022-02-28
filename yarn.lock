@@ -3505,17 +3505,17 @@ libnpmaccess@*:
     npm-registry-fetch "^13.0.0"
 
 libnpmdiff@*:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/libnpmdiff/-/libnpmdiff-3.0.0.tgz#4beb36cf9a8b91a99c373589e99822c18a798c0e"
-  integrity sha512-pnwUs96QpM7KzD4vOyxTZvrjxi61y/5u/nBUKih8+eKQ9H8DiIBcV1OGaj7OKhoxJk4D5s8Aw746rE49FARavQ==
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/libnpmdiff/-/libnpmdiff-4.0.0.tgz#be1e1031d23e650707d6702cb9e4c8295dabfe00"
+  integrity sha512-VXOQGwtcx4kOGOHIYasRi6m1a+FGTPLv0463DzkbNR5P7m4GGY9aXmWE95ZE2JkFy+VpWmHjS/62pDB6CxIcKw==
   dependencies:
     "@npmcli/disparity-colors" "^1.0.1"
     "@npmcli/installed-package-contents" "^1.0.7"
     binary-extensions "^2.2.0"
     diff "^5.0.0"
     minimatch "^3.0.4"
-    npm-package-arg "^8.1.4"
-    pacote "^12.0.0"
+    npm-package-arg "^9.0.0"
+    pacote "^13.0.2"
     tar "^6.1.0"
 
 libnpmexec@*:
@@ -4117,7 +4117,7 @@ npm-package-arg@*, npm-package-arg@^9.0.0:
     semver "^7.3.5"
     validate-npm-package-name "^3.0.0"
 
-npm-package-arg@^8.0.1, npm-package-arg@^8.1.2, npm-package-arg@^8.1.4, npm-package-arg@^8.1.5:
+npm-package-arg@^8.0.1, npm-package-arg@^8.1.2, npm-package-arg@^8.1.5:
   version "8.1.5"
   resolved "https://registry.yarnpkg.com/npm-package-arg/-/npm-package-arg-8.1.5.tgz#3369b2d5fe8fdc674baa7f1786514ddc15466e44"
   integrity sha512-LhgZrg0n0VgvzVdSm1oiZworPbTxYHUJCgtsJW8mGvlDpxTM1vSJc3m5QZeUkhAHIzbz3VCHd/R4osi1L1Tg/Q==
