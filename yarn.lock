@@ -3688,9 +3688,9 @@ libnpmpublish@^6.0.0:
     ssri "^8.0.1"
 
 libnpmsearch@^5.0.0:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/libnpmsearch/-/libnpmsearch-5.0.1.tgz#9b7f0f651e95e1419e40a4bb90e944650549b7de"
-  integrity sha512-O//WlHTQ/croL1oA+4oG1RQvS1O+Vu9oMQbXg78YGq1o5d37Ft11HeGi1hvHVCHTqighqRBIRm+s6RzTDlVAiQ==
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/libnpmsearch/-/libnpmsearch-5.0.2.tgz#e44bdd47a3dc85f0daab76d73235e42eb808f3fb"
+  integrity sha512-lx3qLm+vOQzdYFGfL2tNldQVN08EatkvpOLRghsWQ47Y+jINFvDe3s5unsMLLF89CfQFqdaYLJ992yQLCwDbtQ==
   dependencies:
     npm-registry-fetch "^13.0.0"
 
